@@ -15,9 +15,9 @@
  🎬 I also have a side hustle in **video editing**  
  ➡️ [Check out my edits here](https://sehgalaayu.wixsite.com/aayuedits)
 
-🌱 I’m currently learning **Hardhat, Solidity, Web3, and full-stack development**
+🌱 I’m currently learning **Web3, Foundry, Solidity and full-stack development**
 
-💬 Ask me about **Web3, smart contracts, content creation, or anything [here](https://github.com/sehgalaayu/sehgalaayu/issues)**
+💬 Ask me about **Web3, smart contracts, backend, content creation, or anything [here](https://github.com/sehgalaayu/sehgalaayu/issues)**
 
 ⚡ Fun fact: **I can edit a reel while debugging a smart contract 😄**
 

@@ -47,7 +47,7 @@
   <img src="https://skillicons.dev/icons?i=js,solidity,python,cpp,sql" />
 
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
 
   <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=nodejs,express" />

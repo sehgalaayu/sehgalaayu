@@ -4,20 +4,20 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aayu+Sehgal!" />
 </h1>
 
-<h3 align="center">Aspiring blockchain developer from India 🇮🇳</h3>
+<h3 align="center">Aspiring full stack developer from India 🇮🇳</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **blockchain-based projects and DApps**
+ 🔭 I’m currently working on **Full stack and blockchain-based projects**
  
  🎬 I also have a side hustle in **video editing**  
  ➡️ [Check out my edits here](https://sehgalaayu.wixsite.com/aayuedits)
 
-🌱 I’m currently learning **Web3, Foundry, Solidity and full-stack development**
+🌱 I’m currently learning **NextJs, Foundry, Solidity and full-stack development**
 
-💬 Ask me about **Web3, smart contracts, backend, content creation, or anything [here](https://github.com/sehgalaayu/sehgalaayu/issues)**
+💬 Ask me about **Backend, frontend, web3, content creation, or anything [here](https://github.com/sehgalaayu/sehgalaayu/issues)**
 
 ⚡ Fun fact: **I can edit a reel while debugging a smart contract 😄**
 
@@ -43,8 +43,6 @@
 <h2 align="center">⚒️ Languages – Frameworks – Tools ⚒️</h2>
 <br/>
 <div align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=js,solidity,python,cpp,sql" />
 
   <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
@@ -52,25 +50,8 @@
   <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-  <!-- Blockchain Tools -->
-  <img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hardhat-181717?style=for-the-badge&logo=hardhat&logoColor=white" />
-  <img src="https://img.shields.io/badge/Alchemy-3B5998?style=for-the-badge&logo=alchemy&logoColor=white" />
-  <img src="https://img.shields.io/badge/ZKSync-000000?style=for-the-badge&logo=zk&logoColor=white" />
-  <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Phantom-551BF9?style=for-the-badge&logo=phantom&logoColor=white" />
-
   <!-- Database -->
   <img src="https://skillicons.dev/icons?i=mongodb" />
-
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-
-  <!-- Video Editing -->
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" />
-  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" />
-  <img src="https://skillicons.dev/icons?i=canva" />
 </div>
 
 <br/>

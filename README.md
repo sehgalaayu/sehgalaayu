@@ -4,18 +4,18 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aayu+Sehgal!" />
 </h1>
 
-<h3 align="center">Aspiring full stack developer from India 🇮🇳</h3>
+<h3 align="center">Full stack developer from India 🇮🇳</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **Full stack and blockchain-based projects**
+ 🔭 I’m currently working as **Full stack Developer @ Skribe**
  
  🎬 I also have a side hustle in **video editing**  
  ➡️ [Check out my edits here](https://sehgalaayu.wixsite.com/aayuedits)
 
-🌱 I’m currently learning **NextJs, Foundry, Solidity and full-stack development**
+🌱 I’m currently learning **NextJs, Foundry, Solidity and full-stack web3 development**
 
 💬 Ask me about **Backend, frontend, web3, content creation, or anything [here](https://github.com/sehgalaayu/sehgalaayu/issues)**
 
